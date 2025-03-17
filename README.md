@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/32864052-a725-46aa-8ebe-592e0014d037)- 👋 Hi, I’m @GoldenB0ii
+- 👋 Hi, I’m @GoldenB0ii
 - 👀 I’m interested in Programming and Ethical Hacking
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects (Currrently open to gain new experience!)
